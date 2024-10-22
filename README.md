@@ -1,5 +1,5 @@
 # data-analytics-portfolio
-    Welcome to ny Data Analytics portfolio!  This repository contains various projects based around data analytics.
+    Welcome to my Data Analytics portfolio!  This repository contains various projects based around data analytics.
 
 ## Table of Contents
 - [data-analytics-portfolio](#data-analytics-portfolio)
