@@ -2,13 +2,15 @@
     Welcome to ny Data Analytics portfolio!  This repository contains various projects based around data analytics.
 
 ## Table of Contents
-    - [Overview](#overview)
-    - [Projects](#projects)
-      - [Spotify Project](#spotify-project)
-      - [SQL Challenges](#sql-challenges)
-      - [A/B Testing Scenario](#ab-testing-scenario)
-    - [Technologies Used](#technologies-used)
-    - [Contact](#contact)
+- [data-analytics-portfolio](#data-analytics-portfolio)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Projects](#projects)
+    - [Spotify Project](#spotify-project)
+    - [SQL Challenges](#sql-challenges)
+    - [A/B Testing Scenario](#ab-testing-scenario)
+  - [Technologies Used](#technologies-used)
+  - [Contact](#contact)
 
 ## Overview
     This repository serves as a portfolio.  Within are a variety of projects that showcase my current skills with data analysis related tools and processes.  The main goal is to not just showcase the skills I've learned, but how they've grown over time as well.
