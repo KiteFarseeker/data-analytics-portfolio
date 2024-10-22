@@ -19,7 +19,7 @@
 
 ### Spotify Project
 - **Description**: An analysis of my Spotify streaming history with the goal of seeing how my streaming habits evolved over time.
-- **Folder**: [Spotify Project](./spotify_project)
+- **Folder**: [Spotify Project](./spotify_project/)
 - **Key Features**:
   - Data cleaning and preprocessing of streaming data delivered by Spotify
   - Visualizing trends and identifying outliers
@@ -27,14 +27,14 @@
 
 ### SQL Challenges
 - **Description**: A small collection of SQL challenges done while at Masterschool.
-- **Folder**: [SQL Challenges](./sql_challenges)
+- **Folder**: [SQL Challenges](./sql_challenges/)
 - **Key Features**:
   - Questions related to a false dataset, using common scenarios found in the analytics world
   - SQL codes that demonstrate knowledge of key functions like JOIN, window functions, subqueries, and aggregation
 
 ### A/B Testing Scenario
 - **Description**: An A/B Testing scenario used as a mastery project while at Masterschool.  This required a passing grade in order to graduate.
-- **Folder**: [A-B Testing Project](./a-b_testing_project)
+- **Folder**: [A-B Testing Project](./a-b_testing_project/)
 - **Key Features**:
   - Scenario using a simple A/B Testing model to determine whether or not a new initiative is worth keeping
   - Statistical analysis of financial impact on business
