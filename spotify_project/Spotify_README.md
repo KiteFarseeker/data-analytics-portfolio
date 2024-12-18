@@ -33,13 +33,13 @@ This project is a **work in progress**. Visualizations and analyses may be updat
 
 ## How to View the Visualizations
 
-You can explore the published Tableau dashboard [here](<insert link to Tableau Public page>).
+You can explore the published Tableau dashboard [here](https://public.tableau.com/app/profile/terrence.o.rourke/viz/SpotifyAnalysisProcess/Top10Overview).
 
 ## Tools Used
 
 - **Tableau Desktop**: For data visualization and dashboard creation.
 - **Python**: For initial data cleaning and preparation.
-- **Excel**: For intermediate data formatting.
+- **Excel**: For intermediate data formatting and validation.
 
 ## Next Steps
 
